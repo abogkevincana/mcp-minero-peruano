@@ -17,10 +17,10 @@ Servidor MCP (Model Context Protocol) para la **Ley General de Minería del Per�
 
 | Normativa | Estado |
 |-----------|--------|
-| Reglamento de Seguridad y Salud Ocupacional en Minería (DS 024-2016-EM) | 🔜 Vigente / actualizado |
-| Ley de Cierre de Minas (Ley 28090 y modificatorias) | 🔜 Vigente / actualizado |
-| Reglamento de Protección Ambiental para Actividades Mineras | 🔜 Vigente / actualizado |
-| TUO de la Ley Ambiental para Minería | 🔜 Vigente / actualizado |
+| Reglamento de Seguridad y Salud Ocupacional en Minería (DS 024-2016-EM) | 🔜 Próximamente |
+| Ley de Cierre de Minas (Ley 28090 y modificatorias) | 🔜 Próximamente|
+| Reglamento de Protección Ambiental para Actividades Mineras | 🔜 Próximamente |
+| TUO de la Ley Ambiental para Minería | 🔜 Próximamente |
 | Jurisprudencia relevante del Tribunal Minero | 🔜 En estudio |
 
 ## 🎯 Objetivo del proyecto
