@@ -1,0 +1,12 @@
+get-pip.py
+*.tmp
+*.log
+ley_mineria.pdf
+test_*.py
+cliente_mcp_claude.py
+datos/articulos_extraidos.txt
+datos/articulos_final*.txt
+datos/articulos_limpio*.txt
+datos/articulos_limpios.txt
+datos/mineria_data_con_metadatos.json
+datos/mineria_data_sumillas_mejoradas.json
